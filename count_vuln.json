@@ -1,0 +1,1340 @@
+{
+  "PSY413-003-0423_2025-06-07_15-11-32.html": {
+    "Critical": 112,
+    "High": 345,
+    "Medium": 168,
+    "Low": 14
+  },
+  "fsf101-008-0423.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "LAW110-002_2025-06-02_12-58-34.html": {
+    "Critical": 18,
+    "High": 218,
+    "Medium": 95,
+    "Low": 6
+  },
+  "LAW204-0001_2025-06-02_12-53-26.html": {
+    "Critical": 13,
+    "High": 200,
+    "Medium": 55,
+    "Low": 4
+  },
+  "law122-000003.html": {
+    "Critical": 86,
+    "High": 283,
+    "Medium": 86,
+    "Low": 14
+  },
+  "LAW104-001_2025-05-31_15-54-59.html": {
+    "Critical": 89,
+    "High": 305,
+    "Medium": 103,
+    "Low": 14
+  },
+  "FSF314-001_2025-06-14_12-33-33.html": {
+    "Critical": 88,
+    "High": 298,
+    "Medium": 98,
+    "Low": 14
+  },
+  "PSY403-002_2025-06-20_13-07-41.html": {
+    "Critical": 88,
+    "High": 295,
+    "Medium": 97,
+    "Low": 14
+  },
+  "PSY405-002.html": {
+    "Critical": 0,
+    "High": 5,
+    "Medium": 2,
+    "Low": 0
+  },
+  "PSY417-003_2025-06-07_15-17-50.html": {
+    "Critical": 161,
+    "High": 574,
+    "Medium": 689,
+    "Low": 16
+  },
+  "LAW120-012_2025-05-24_11-52-21.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "law122-000015.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 97,
+    "Low": 14
+  },
+  "DESKTOP-2O1TSN9_2025-05-31_16-00-26.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "law120-016.html": {
+    "Critical": 6,
+    "High": 15,
+    "Medium": 15,
+    "Low": 1
+  },
+  "PSY426-007_2025-06-07_15-56-02.html": {
+    "Critical": 6,
+    "High": 16,
+    "Medium": 15,
+    "Low": 1
+  },
+  "LAW-000016_2025-05-24_13-16-16.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 97,
+    "Low": 14
+  },
+  "PSY426-012_2025-06-07_15-54-02.html": {
+    "Critical": 43,
+    "High": 269,
+    "Medium": 130,
+    "Low": 10
+  },
+  "LAW214A-00001_2025-05-24_11-11-01.html": {
+    "Critical": 16,
+    "High": 196,
+    "Medium": 62,
+    "Low": 3
+  },
+  "PSY408-06_2025-06-07_14-15-20.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "PSY416-001_2025-06-07_14-37-05.html": {
+    "Critical": 88,
+    "High": 297,
+    "Medium": 98,
+    "Low": 14
+  },
+  "FSF307-000002_2025-05-28_14-11-54.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 56,
+    "Low": 2
+  },
+  "PSY417-001-0523_2025-06-07_14-42-40.html": {
+    "Critical": 55,
+    "High": 265,
+    "Medium": 99,
+    "Low": 9
+  },
+  "PSY408-03_2025-06-07_14-16-14.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "LAW210-004_2025-06-02_14-12-13.html": {
+    "Critical": 88,
+    "High": 298,
+    "Medium": 98,
+    "Low": 14
+  },
+  "LAW216-001_2025-06-02_13-40-00.html": {
+    "Critical": 12,
+    "High": 194,
+    "Medium": 55,
+    "Low": 2
+  },
+  "LAW219-003_2025-06-02_13-55-06.html": {
+    "Critical": 36,
+    "High": 225,
+    "Medium": 88,
+    "Low": 4
+  },
+  "law120-014.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "LAW211-001_2025-06-07_12-10-32.html": {
+    "Critical": 37,
+    "High": 232,
+    "Medium": 101,
+    "Low": 5
+  },
+  "law120-010.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "LAW217-002_2025-06-02_14-40-07.html": {
+    "Critical": 258,
+    "High": 597,
+    "Medium": 361,
+    "Low": 17
+  },
+  "law120-009.html": {
+    "Critical": 18,
+    "High": 207,
+    "Medium": 68,
+    "Low": 3
+  },
+  "LAW119-0001_2025-06-07_11-18-58.html": {
+    "Critical": 0,
+    "High": 3,
+    "Medium": 1,
+    "Low": 0
+  },
+  "PSY411-004_2025-06-07_13-50-39.html": {
+    "Critical": 108,
+    "High": 344,
+    "Medium": 169,
+    "Low": 12
+  },
+  "FSF306-001_2025-05-28_13-17-58.html": {
+    "Critical": 80,
+    "High": 284,
+    "Medium": 74,
+    "Low": 15
+  },
+  "FSF307-001_2025-05-28_14-28-40.html": {
+    "Critical": 263,
+    "High": 600,
+    "Medium": 365,
+    "Low": 18
+  },
+  "PSY418-002_2025-06-07_15-12-47.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 3
+  },
+  "PSY426-006_2025-06-07_15-46-42.html": {
+    "Critical": 76,
+    "High": 109,
+    "Medium": 94,
+    "Low": 7
+  },
+  "law120-015.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "fsf101-007-0423.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "LAW008-001_2025-06-14_12-08-40.html": {
+    "Critical": 95,
+    "High": 315,
+    "Medium": 116,
+    "Low": 15
+  },
+  "PSY408-07_2025-06-07_14-02-04.html": {
+    "Critical": 151,
+    "High": 342,
+    "Medium": 195,
+    "Low": 11
+  },
+  "PSY419-0002_2025-06-07_15-12-17.html": {
+    "Critical": 13,
+    "High": 199,
+    "Medium": 55,
+    "Low": 5
+  },
+  "FSF101-017-0423_2025-05-31_14-35-57.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "PSY426-010_2025-06-07_15-32-23.html": {
+    "Critical": 43,
+    "High": 269,
+    "Medium": 127,
+    "Low": 10
+  },
+  "Law103-001.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "FSF302-001_2025-06-07_12-31-26.html": {
+    "Critical": 94,
+    "High": 309,
+    "Medium": 105,
+    "Low": 15
+  },
+  "PSY426-004_2025-06-07_15-45-25.html": {
+    "Critical": 31,
+    "High": 218,
+    "Medium": 89,
+    "Low": 4
+  },
+  "PSY426-018_2025-06-07_15-40-57.html": {
+    "Critical": 43,
+    "High": 75,
+    "Medium": 49,
+    "Low": 4
+  },
+  "FSF101-016-0423_2025-05-31_14-35-22.html": {
+    "Critical": 19,
+    "High": 213,
+    "Medium": 70,
+    "Low": 6
+  },
+  "FSF310-0007_2025-06-07_12-49-24.html": {
+    "Critical": 73,
+    "High": 296,
+    "Medium": 230,
+    "Low": 6
+  },
+  "LAW012-008_2025-06-14_11-06-32.html": {
+    "Critical": 107,
+    "High": 341,
+    "Medium": 158,
+    "Low": 18
+  },
+  "LAW110-001_2025-06-02_13-01-19.html": {
+    "Critical": 15,
+    "High": 209,
+    "Medium": 67,
+    "Low": 2
+  },
+  "LAW208-001_2025-06-02_13-22-05.html": {
+    "Critical": 258,
+    "High": 601,
+    "Medium": 377,
+    "Low": 18
+  },
+  "LAW207-001_2025-06-02_13-37-50.html": {
+    "Critical": 257,
+    "High": 591,
+    "Medium": 372,
+    "Low": 18
+  },
+  "LAW004-001_2025-06-14_12-05-37.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "FSF313-001_2025-06-07_12-34-22.html": {
+    "Critical": 15,
+    "High": 222,
+    "Medium": 78,
+    "Low": 6
+  },
+  "fsf101-003-0423.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "FSF101-013-0423_2025-05-31_14-40-07.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "PSY405-001-0323_2025-06-07_13-29-25.html": {
+    "Critical": 291,
+    "High": 503,
+    "Medium": 386,
+    "Low": 22
+  },
+  "LAW208-002_2025-06-02_13-26-31.html": {
+    "Critical": 95,
+    "High": 315,
+    "Medium": 116,
+    "Low": 15
+  },
+  "PSY426-014_2025-06-07_15-47-44.html": {
+    "Critical": 10,
+    "High": 46,
+    "Medium": 39,
+    "Low": 4
+  },
+  "PSY426-016_2025-06-07_15-31-40.html": {
+    "Critical": 157,
+    "High": 240,
+    "Medium": 185,
+    "Low": 9
+  },
+  "PSY418-0001-092_2025-06-07_15-13-48.html": {
+    "Critical": 254,
+    "High": 415,
+    "Medium": 219,
+    "Low": 18
+  },
+  "LAW107-002_2025-05-31_16-21-27.html": {
+    "Critical": 100,
+    "High": 324,
+    "Medium": 117,
+    "Low": 15
+  },
+  "PSY408-04_2025-06-07_14-12-02.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "FSF101-014-0423_2025-05-31_14-39-33.html": {
+    "Critical": 258,
+    "High": 498,
+    "Medium": 520,
+    "Low": 19
+  },
+  "LAW104-002_2025-05-31_15-51-24.html": {
+    "Critical": 14,
+    "High": 201,
+    "Medium": 56,
+    "Low": 2
+  },
+  "LAW117-002_2025-06-02_14-33-33.html": {
+    "Critical": 14,
+    "High": 201,
+    "Medium": 56,
+    "Low": 2
+  },
+  "FSF310-0002_2025-06-07_13-00-55.html": {
+    "Critical": 18,
+    "High": 216,
+    "Medium": 70,
+    "Low": 3
+  },
+  "LAW006-002_2025-06-14_11-54-26.html": {
+    "Critical": 96,
+    "High": 309,
+    "Medium": 105,
+    "Low": 15
+  },
+  "LAW122-000004_2025-05-24_13-13-44.html": {
+    "Critical": 93,
+    "High": 304,
+    "Medium": 132,
+    "Low": 15
+  },
+  "LAW014-001_2025-06-14_12-19-55.html": {
+    "Critical": 91,
+    "High": 308,
+    "Medium": 106,
+    "Low": 15
+  },
+  "LAW114-001_2025-06-07_11-23-43.html": {
+    "Critical": 14,
+    "High": 201,
+    "Medium": 56,
+    "Low": 2
+  },
+  "PSY408-18_2025-06-07_14-05-37.html": {
+    "Critical": 64,
+    "High": 548,
+    "Medium": 523,
+    "Low": 21
+  },
+  "FSF307-000004_2025-05-28_14-02-35.html": {
+    "Critical": 27,
+    "High": 239,
+    "Medium": 122,
+    "Low": 3
+  },
+  "FSF101-011-0423_2025-05-31_14-41-32.html": {
+    "Critical": 112,
+    "High": 323,
+    "Medium": 249,
+    "Low": 9
+  },
+  "FSF101-015-0423_2025-05-31_14-37-07.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "PSY408-17_2025-06-07_14-07-19.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "LAW004-010_2025-06-14_11-52-49.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "PSY426-009_2025-06-07_15-31-09.html": {
+    "Critical": 43,
+    "High": 273,
+    "Medium": 128,
+    "Low": 10
+  },
+  "FSF101-004-0423_2025-06-07_13-44-46.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "LAW203-0002_2025-06-02_12-40-34.html": {
+    "Critical": 13,
+    "High": 198,
+    "Medium": 56,
+    "Low": 4
+  },
+  "PSY408-08_2025-06-07_14-06-49.html": {
+    "Critical": 24,
+    "High": 230,
+    "Medium": 99,
+    "Low": 6
+  },
+  "fsf101-005-0423.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 5
+  },
+  "PSY410-001_2025-06-07_13-29-08.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 100,
+    "Low": 14
+  },
+  "LAW004-005_2025-06-14_11-44-47.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "LAW004-003_2025-06-14_11-36-04.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "LAW-12-014-02_2025-06-20_12-36-12.html": {
+    "Critical": 22,
+    "High": 214,
+    "Medium": 78,
+    "Low": 4
+  },
+  "PSY410-003_2025-06-07_13-52-59.html": {
+    "Critical": 103,
+    "High": 338,
+    "Medium": 166,
+    "Low": 15
+  },
+  "LAW122-000007_2025-05-24_13-05-27.html": {
+    "Critical": 79,
+    "High": 268,
+    "Medium": 83,
+    "Low": 14
+  },
+  "LAW112-001_2025-06-02_12-58-55.html": {
+    "Critical": 257,
+    "High": 592,
+    "Medium": 351,
+    "Low": 17
+  },
+  "PSY023-006_2025-06-14_12-14-52.html": {
+    "Critical": 31,
+    "High": 222,
+    "Medium": 91,
+    "Low": 5
+  },
+  "LAW616-001_2025-06-14_11-47-29.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 97,
+    "Low": 14
+  },
+  "PSY403-001_2025-06-20_13-10-36.html": {
+    "Critical": 167,
+    "High": 75,
+    "Medium": 54,
+    "Low": 1
+  },
+  "FSF302-003_2025-06-07_13-00-25.html": {
+    "Critical": 89,
+    "High": 303,
+    "Medium": 102,
+    "Low": 14
+  },
+  "LAW012-002_2025-06-14_10-44-03.html": {
+    "Critical": 112,
+    "High": 345,
+    "Medium": 162,
+    "Low": 17
+  },
+  "LAW004-009_2025-06-14_11-51-20.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 16
+  },
+  "PSY409-002.html": {
+    "Critical": 93,
+    "High": 301,
+    "Medium": 98,
+    "Low": 14
+  },
+  "FSF303-003_2025-06-07_12-10-17.html": {
+    "Critical": 257,
+    "High": 600,
+    "Medium": 369,
+    "Low": 20
+  },
+  "PSY408-10_2025-06-07_14-10-48.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "LAW118-001_2025-06-07_11-35-41.html": {
+    "Critical": 14,
+    "High": 205,
+    "Medium": 56,
+    "Low": 2
+  },
+  "LAW120-011_2025-05-24_11-56-17.html": {
+    "Critical": 18,
+    "High": 207,
+    "Medium": 68,
+    "Low": 3
+  },
+  "LAW212-NEW3-001_2025-06-07_11-54-12.html": {
+    "Critical": 13,
+    "High": 200,
+    "Medium": 56,
+    "Low": 4
+  },
+  "LAW214-010_2025-06-02_14-06-50.html": {
+    "Critical": 257,
+    "High": 589,
+    "Medium": 350,
+    "Low": 17
+  },
+  "FSF101-012-0423_2025-05-31_14-40-33.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "PSY535-001_2025-06-14_11-35-17.html": {
+    "Critical": 31,
+    "High": 220,
+    "Medium": 87,
+    "Low": 4
+  },
+  "PSY414-001-0523_2025-06-07_14-29-28.html": {
+    "Critical": 116,
+    "High": 341,
+    "Medium": 171,
+    "Low": 14
+  },
+  "PSY424-001_2025-06-07_14-38-43.html": {
+    "Critical": 31,
+    "High": 221,
+    "Medium": 87,
+    "Low": 4
+  },
+  "FSF313-002_2025-06-07_12-45-22.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 97,
+    "Low": 14
+  },
+  "LAW122-000009.html": {
+    "Critical": 79,
+    "High": 268,
+    "Medium": 83,
+    "Low": 14
+  },
+  "LAW006-004_2025-06-14_11-55-13.html": {
+    "Critical": 91,
+    "High": 308,
+    "Medium": 106,
+    "Low": 15
+  },
+  "PSY015-002_2025-06-14_12-42-30.html": {
+    "Critical": 88,
+    "High": 298,
+    "Medium": 98,
+    "Low": 14
+  },
+  "LAW122-000008_2025-05-24_13-30-53.html": {
+    "Critical": 258,
+    "High": 615,
+    "Medium": 371,
+    "Low": 18
+  },
+  "PSY408-02_2025-06-07_14-17-54.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 101,
+    "Low": 6
+  },
+  "PSY412-002-1124_2025-06-07_14-26-37.html": {
+    "Critical": 191,
+    "High": 472,
+    "Medium": 266,
+    "Low": 26
+  },
+  "LAW122-000010_2025-05-24_13-00-14.html": {
+    "Critical": 79,
+    "High": 268,
+    "Medium": 83,
+    "Low": 14
+  },
+  "law122-000002.html": {
+    "Critical": 62,
+    "High": 83,
+    "Medium": 12,
+    "Low": 11
+  },
+  "LAW111-001_2025-06-20_13-13-48.html": {
+    "Critical": 168,
+    "High": 82,
+    "Medium": 62,
+    "Low": 2
+  },
+  "law122-00012.html": {
+    "Critical": 94,
+    "High": 308,
+    "Medium": 111,
+    "Low": 16
+  },
+  "LAW122-000011_2025-05-24_13-03-22.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 97,
+    "Low": 14
+  },
+  "FSF300-003_2025-06-07_11-59-08.html": {
+    "Critical": 89,
+    "High": 303,
+    "Medium": 102,
+    "Low": 14
+  },
+  "FSF101-009-0423_2025-05-31_14-33-46.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 5
+  },
+  "PSY426-015_2025-06-07_15-20-48.html": {
+    "Critical": 19,
+    "High": 44,
+    "Medium": 32,
+    "Low": 3
+  },
+  "PSY424-002_2025-06-07_15-04-33.html": {
+    "Critical": 218,
+    "High": 546,
+    "Medium": 545,
+    "Low": 23
+  },
+  "PSY420-002_2025-06-07_15-13-14.html": {
+    "Critical": 108,
+    "High": 343,
+    "Medium": 171,
+    "Low": 15
+  },
+  "PSY422-0001_2025-06-07_14-42-27.html": {
+    "Critical": 22,
+    "High": 227,
+    "Medium": 76,
+    "Low": 8
+  },
+  "LAW004-002_2025-06-14_12-04-03.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "FSF303-001_2025-06-07_12-13-00.html": {
+    "Critical": 16,
+    "High": 218,
+    "Medium": 74,
+    "Low": 3
+  },
+  "LAW120-013_2025-05-24_12-02-13.html": {
+    "Critical": 12,
+    "High": 199,
+    "Medium": 54,
+    "Low": 2
+  },
+  "PSY023-003_2025-06-14_08-08-44.html": {
+    "Critical": 31,
+    "High": 222,
+    "Medium": 88,
+    "Low": 4
+  },
+  "fsf101-001-0423.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "FSF101-020-0423_2025-05-31_14-42-18.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "law122-000005.html": {
+    "Critical": 79,
+    "High": 268,
+    "Medium": 83,
+    "Low": 14
+  },
+  "PSY023-004_2025-06-14_08-13-03.html": {
+    "Critical": 31,
+    "High": 222,
+    "Medium": 88,
+    "Low": 4
+  },
+  "law122-000001.html": {
+    "Critical": 79,
+    "High": 268,
+    "Medium": 83,
+    "Low": 14
+  },
+  "PSY022-001_2025-06-14_12-06-19.html": {
+    "Critical": 93,
+    "High": 300,
+    "Medium": 98,
+    "Low": 14
+  },
+  "FSF310-0001_2025-06-07_12-47-03.html": {
+    "Critical": 12,
+    "High": 201,
+    "Medium": 59,
+    "Low": 2
+  },
+  "PSY401-001-1024_2025-06-07_14-44-59.html": {
+    "Critical": 6,
+    "High": 28,
+    "Medium": 21,
+    "Low": 1
+  },
+  "FSF-018-0423_2025-05-31_14-38-17.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "FSF307-000003_2025-05-28_14-04-01.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "PSY417-002-0423_2025-06-07_14-37-00.html": {
+    "Critical": 113,
+    "High": 351,
+    "Medium": 169,
+    "Low": 15
+  },
+  "law122-000006.html": {
+    "Critical": 62,
+    "High": 83,
+    "Medium": 12,
+    "Low": 10
+  },
+  "LAW616-002_2025-06-07_11-40-44.html": {
+    "Critical": 24,
+    "High": 226,
+    "Medium": 105,
+    "Low": 3
+  },
+  "PSY408-12_2025-06-07_14-20-56.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "FSF302-002_2025-06-07_12-34-43.html": {
+    "Critical": 93,
+    "High": 302,
+    "Medium": 99,
+    "Low": 14
+  },
+  "FSF101-021-0423_2025-05-31_14-47-04.html": {
+    "Critical": 19,
+    "High": 213,
+    "Medium": 70,
+    "Low": 5
+  },
+  "LAW104-003_2025-05-31_15-49-17.html": {
+    "Critical": 14,
+    "High": 200,
+    "Medium": 55,
+    "Low": 2
+  },
+  "fsf101-006-0423.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "FSF317-001_2025-06-07_13-16-48.html": {
+    "Critical": 258,
+    "High": 597,
+    "Medium": 361,
+    "Low": 17
+  },
+  "PSY426-002_2025-06-07_15-36-20.html": {
+    "Critical": 46,
+    "High": 74,
+    "Medium": 55,
+    "Low": 4
+  },
+  "PSY426-017_2025-06-07_15-40-18.html": {
+    "Critical": 40,
+    "High": 70,
+    "Medium": 42,
+    "Low": 3
+  },
+  "FSF310-0005_2025-06-07_13-14-17.html": {
+    "Critical": 72,
+    "High": 296,
+    "Medium": 231,
+    "Low": 6
+  },
+  "LAW012-003_2025-06-14_10-46-58.html": {
+    "Critical": 112,
+    "High": 347,
+    "Medium": 163,
+    "Low": 17
+  },
+  "PSY408-13_2025-06-07_14-15-00.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "PSY411-005_2025-06-07_13-46-44.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "PSY420-0001-102_2025-06-07_14-34-45.html": {
+    "Critical": 112,
+    "High": 346,
+    "Medium": 168,
+    "Low": 13
+  },
+  "LAW219-002_2025-06-02_14-06-15.html": {
+    "Critical": 8,
+    "High": 21,
+    "Medium": 17,
+    "Low": 1
+  },
+  "UI205-003_2025-06-02_13-13-06.html": {
+    "Critical": 43,
+    "High": 274,
+    "Medium": 136,
+    "Low": 6
+  },
+  "LAW012-006_2025-06-14_10-58-13.html": {
+    "Critical": 64,
+    "High": 155,
+    "Medium": 69,
+    "Low": 13
+  },
+  "PSY418-14_2025-06-07_14-09-00.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "LAW012-004_2025-06-14_10-50-09.html": {
+    "Critical": 108,
+    "High": 348,
+    "Medium": 163,
+    "Low": 17
+  },
+  "PSY410-0002-092_2025-06-07_14-27-49.html": {
+    "Critical": 22,
+    "High": 232,
+    "Medium": 77,
+    "Low": 8
+  },
+  "LAW004-006_2025-06-14_11-46-05.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "PSY426-005_2025-06-07_15-52-41.html": {
+    "Critical": 21,
+    "High": 91,
+    "Medium": 140,
+    "Low": 53
+  },
+  "FSF300-004_2025-06-07_12-28-29.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 97,
+    "Low": 14
+  },
+  "FSF300-002_2025-06-07_12-07-46.html": {
+    "Critical": 13,
+    "High": 208,
+    "Medium": 74,
+    "Low": 3
+  },
+  "PSY411-006_2025-06-07_13-47-41.html": {
+    "Critical": 108,
+    "High": 339,
+    "Medium": 162,
+    "Low": 12
+  },
+  "LAW214A-00002_2025-06-02_12-21-09.html": {
+    "Critical": 16,
+    "High": 200,
+    "Medium": 63,
+    "Low": 3
+  },
+  "PSY411-0004_2025-06-07_13-48-47.html": {
+    "Critical": 17,
+    "High": 225,
+    "Medium": 71,
+    "Low": 7
+  },
+  "PSY428-0001_2025-06-07_15-01-38.html": {
+    "Critical": 12,
+    "High": 200,
+    "Medium": 55,
+    "Low": 2
+  },
+  "FSF303-004_2025-06-07_12-01-00.html": {
+    "Critical": 93,
+    "High": 302,
+    "Medium": 99,
+    "Low": 14
+  },
+  "LAW106-001_2025-05-31_15-15-42.html": {
+    "Critical": 61,
+    "High": 100,
+    "Medium": 35,
+    "Low": 12
+  },
+  "LAW120-0014_2025-05-24_12-11-52.html": {
+    "Critical": 13,
+    "High": 199,
+    "Medium": 55,
+    "Low": 4
+  },
+  "FSF101-010-0423_2025-06-07_13-46-05.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 4
+  },
+  "LAW120-005_2025-05-24_12-48-24.html": {
+    "Critical": 37,
+    "High": 232,
+    "Medium": 101,
+    "Low": 5
+  },
+  "PSY408-01_2025-06-07_14-22-10.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "PSY426-001_2025-06-07_15-38-35.html": {
+    "Critical": 31,
+    "High": 220,
+    "Medium": 87,
+    "Low": 5
+  },
+  "LAW120-006_2025-05-24_12-01-05.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "PSY408-019_2025-06-07_14-05-29.html": {
+    "Critical": 88,
+    "High": 298,
+    "Medium": 98,
+    "Low": 14
+  },
+  "PSY426-003_2025-06-07_15-39-17.html": {
+    "Critical": 47,
+    "High": 74,
+    "Medium": 55,
+    "Low": 4
+  },
+  "LAW124-001_2025-06-07_11-53-22.html": {
+    "Critical": 14,
+    "High": 200,
+    "Medium": 55,
+    "Low": 2
+  },
+  "law120-008.html": {
+    "Critical": 12,
+    "High": 199,
+    "Medium": 54,
+    "Low": 2
+  },
+  "LAW120-007_2025-05-24_12-09-44.html": {
+    "Critical": 12,
+    "High": 195,
+    "Medium": 54,
+    "Low": 2
+  },
+  "LAW219-001-0423_2025-06-02_14-16-04.html": {
+    "Critical": 13,
+    "High": 200,
+    "Medium": 56,
+    "Low": 4
+  },
+  "LAW210-005_2025-06-02_14-15-21.html": {
+    "Critical": 257,
+    "High": 594,
+    "Medium": 352,
+    "Low": 17
+  },
+  "PSY426-008_2025-06-07_15-35-24.html": {
+    "Critical": 43,
+    "High": 269,
+    "Medium": 127,
+    "Low": 10
+  },
+  "LAW121-001_2025-06-07_11-57-40.html": {
+    "Critical": 93,
+    "High": 300,
+    "Medium": 98,
+    "Low": 14
+  },
+  "PSY426-013_2025-06-07_15-48-52.html": {
+    "Critical": 49,
+    "High": 281,
+    "Medium": 141,
+    "Low": 11
+  },
+  "LAW-12-014-01_2025-06-20_12-14-45.html": {
+    "Critical": 18,
+    "High": 212,
+    "Medium": 78,
+    "Low": 4
+  },
+  "PSY422-002_2025-06-07_15-07-30.html": {
+    "Critical": 689,
+    "High": 880,
+    "Medium": 775,
+    "Low": 51
+  },
+  "LAW004-008_2025-06-14_11-47-58.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "LAW004-004_2025-06-14_11-58-08.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "FSF311-001_2025-06-02_13-56-36.html": {
+    "Critical": 258,
+    "High": 598,
+    "Medium": 362,
+    "Low": 17
+  },
+  "PSY023-002_2025-06-14_12-11-31.html": {
+    "Critical": 31,
+    "High": 222,
+    "Medium": 88,
+    "Low": 4
+  },
+  "LAW109-001_2025-05-31_16-26-56.html": {
+    "Critical": 18,
+    "High": 324,
+    "Medium": 123,
+    "Low": 15
+  },
+  "FSF307-000005_2025-05-28_14-05-43.html": {
+    "Critical": 127,
+    "High": 352,
+    "Medium": 295,
+    "Low": 9
+  },
+  "LAW107-001_2025-05-31_16-28-16.html": {
+    "Critical": 14,
+    "High": 206,
+    "Medium": 58,
+    "Low": 2
+  },
+  "PSY023-001_2025-06-14_08-10-13.html": {
+    "Critical": 31,
+    "High": 222,
+    "Medium": 88,
+    "Low": 4
+  },
+  "PSY407-001_2025-06-07_13-49-21.html": {
+    "Critical": 18,
+    "High": 207,
+    "Medium": 62,
+    "Low": 3
+  },
+  "FSF310-0003_2025-06-07_12-59-10.html": {
+    "Critical": 73,
+    "High": 296,
+    "Medium": 230,
+    "Low": 6
+  },
+  "LAW004-012_2025-06-14_11-54-49.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "FSF311-0002_2025-06-02_13-58-57.html": {
+    "Critical": 14,
+    "High": 245,
+    "Medium": 76,
+    "Low": 7
+  },
+  "LAW122-0006_2025-05-28_12-51-32.html": {
+    "Critical": 18,
+    "High": 207,
+    "Medium": 68,
+    "Low": 3
+  },
+  "LAW010-001_2025-06-14_12-07-34.html": {
+    "Critical": 100,
+    "High": 312,
+    "Medium": 106,
+    "Low": 15
+  },
+  "FSF310-0006_2025-06-07_08-48-48.html": {
+    "Critical": 12,
+    "High": 199,
+    "Medium": 55,
+    "Low": 2
+  },
+  "LAW004-007_2025-06-14_11-47-12.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "fsf101-002-0423.html": {
+    "Critical": 13,
+    "High": 201,
+    "Medium": 56,
+    "Low": 5
+  },
+  "law122-000013.html": {
+    "Critical": 88,
+    "High": 296,
+    "Medium": 97,
+    "Low": 14
+  },
+  "PSY422-004_2025-06-07_14-40-33.html": {
+    "Critical": 88,
+    "High": 298,
+    "Medium": 98,
+    "Low": 14
+  },
+  "PSY408-16_2025-06-07_14-07-43.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "law122-000014.html": {
+    "Critical": 265,
+    "High": 654,
+    "Medium": 475,
+    "Low": 30
+  },
+  "FSF101-019-0423_2025-05-31_14-38-56.html": {
+    "Critical": 19,
+    "High": 213,
+    "Medium": 70,
+    "Low": 5
+  },
+  "LAW004-013_2025-06-14_11-50-26.html": {
+    "Critical": 95,
+    "High": 310,
+    "Medium": 106,
+    "Low": 15
+  },
+  "PSY408-15_2025-06-07_14-09-50.html": {
+    "Critical": 45,
+    "High": 275,
+    "Medium": 184,
+    "Low": 8
+  },
+  "law108-001.html": {
+    "Critical": 19,
+    "High": 210,
+    "Medium": 59,
+    "Low": 2
+  },
+  "psy408-05.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  },
+  "LAW117-001_2025-06-02_13-23-00.html": {
+    "Critical": 18,
+    "High": 219,
+    "Medium": 97,
+    "Low": 6
+  },
+  "LAW203-001_2025-06-02_12-43-14.html": {
+    "Critical": 257,
+    "High": 588,
+    "Medium": 350,
+    "Low": 17
+  },
+  "LAW210-002_2025-06-02_14-35-11.html": {
+    "Critical": 21,
+    "High": 222,
+    "Medium": 89,
+    "Low": 4
+  },
+  "FSF315-001_2025-06-07_09-12-44.html": {
+    "Critical": 690,
+    "High": 887,
+    "Medium": 780,
+    "Low": 51
+  },
+  "PSY419-003-0423_2025-06-07_15-09-01.html": {
+    "Critical": 16,
+    "High": 208,
+    "Medium": 87,
+    "Low": 6
+  },
+  "FSF306-001_2025-06-07_12-15-02.html": {
+    "Critical": 80,
+    "High": 284,
+    "Medium": 74,
+    "Low": 15
+  },
+  "PSY408-11_2025-06-07_14-14-00.html": {
+    "Critical": 24,
+    "High": 229,
+    "Medium": 99,
+    "Low": 6
+  }
+}

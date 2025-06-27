@@ -1,0 +1,5044 @@
+{
+  "PSY408-02_2025-06-07_14-17-54": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 101,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "LAW219-001-0423_2025-06-02_14-16-04": {
+    "counts": {
+      "Critical": 13,
+      "High": 200,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "law120-010": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW006-004_2025-06-14_11-55-13": {
+    "counts": {
+      "Critical": 91,
+      "High": 308,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW616-001_2025-06-14_11-47-29": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY411-0004_2025-06-07_13-48-47": {
+    "counts": {
+      "Critical": 17,
+      "High": 225,
+      "Medium": 71,
+      "Low": 7
+    },
+    "cpe": [
+      "7-zip",
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "r:r_for_windows",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, r:r_for_windows, , "
+  },
+  "FSF307-000004_2025-05-28_14-02-35": {
+    "counts": {
+      "Critical": 27,
+      "High": 239,
+      "Medium": 122,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "LAW119-0001_2025-06-07_11-18-58": {
+    "counts": {
+      "Critical": 0,
+      "High": 3,
+      "Medium": 1,
+      "Low": 0
+    },
+    "cpe": [
+      "microsoft:webp_image",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:webp_image, , "
+  },
+  "LAW004-005_2025-06-14_11-44-47": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "PSY417-002-0423_2025-06-07_14-37-00": {
+    "counts": {
+      "Critical": 113,
+      "High": 351,
+      "Medium": 169,
+      "Low": 15
+    },
+    "cpe": [
+      "7-zip",
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "PSY426-016_2025-06-07_15-31-40": {
+    "counts": {
+      "Critical": 157,
+      "High": 240,
+      "Medium": 185,
+      "Low": 9
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:webp_image",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "videolan:vlc_media_player",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:webp_image, mozilla:firefox, r:r_for_windows, videolan:vlc_media_player, , "
+  },
+  "LAW107-001_2025-05-31_16-28-16": {
+    "counts": {
+      "Critical": 14,
+      "High": 206,
+      "Medium": 58,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY417-003_2025-06-07_15-17-50": {
+    "counts": {
+      "Critical": 161,
+      "High": 574,
+      "Medium": 689,
+      "Low": 16
+    },
+    "cpe": [
+      "7-zip",
+      "google:pepper_flash",
+      "microsoft:.net_framework:4.8",
+      "microsoft:3d_builder",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "windows_defender",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, google:pepper_flash, microsoft:.net_framework:4.8, microsoft:3d_builder, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2005, windows_defender, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY426-001_2025-06-07_15-38-35": {
+    "counts": {
+      "Critical": 31,
+      "High": 220,
+      "Medium": 87,
+      "Low": 5
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "FSF300-004_2025-06-07_12-28-29": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY426-008_2025-06-07_15-35-24": {
+    "counts": {
+      "Critical": 43,
+      "High": 269,
+      "Medium": 127,
+      "Low": 10
+    },
+    "cpe": [
+      "7-zip",
+      "gimp",
+      "git",
+      "libreoffice",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_studio_code:system_installer",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "pypi:pip",
+      "r:r_for_windows",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, gimp, git, libreoffice, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_studio_code:system_installer, microsoft:webp_image, microsoft:word:2013, pypi:pip, r:r_for_windows, winrar, , "
+  },
+  "PSY408-06_2025-06-07_14-15-20": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "LAW204-0001_2025-06-02_12-53-26": {
+    "counts": {
+      "Critical": 13,
+      "High": 200,
+      "Medium": 55,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY410-0002-092_2025-06-07_14-27-49": {
+    "counts": {
+      "Critical": 22,
+      "High": 232,
+      "Medium": 77,
+      "Low": 8
+    },
+    "cpe": [
+      "7-zip",
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "PSY426-012_2025-06-07_15-54-02": {
+    "counts": {
+      "Critical": 43,
+      "High": 269,
+      "Medium": 130,
+      "Low": 10
+    },
+    "cpe": [
+      "7-zip",
+      "gimp",
+      "git",
+      "libreoffice",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_studio_code:system_installer",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "pypi:pip",
+      "r:r_for_windows",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, gimp, git, libreoffice, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_studio_code:system_installer, microsoft:webp_image, microsoft:word:2013, pypi:pip, r:r_for_windows, winrar, , "
+  },
+  "PSY428-0001_2025-06-07_15-01-38": {
+    "counts": {
+      "Critical": 12,
+      "High": 200,
+      "Medium": 55,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY407-001_2025-06-07_13-49-21": {
+    "counts": {
+      "Critical": 18,
+      "High": 207,
+      "Medium": 62,
+      "Low": 3
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:visual_c++:2005, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY023-003_2025-06-14_08-08-44": {
+    "counts": {
+      "Critical": 31,
+      "High": 222,
+      "Medium": 88,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW-12-014-02_2025-06-20_12-36-12": {
+    "counts": {
+      "Critical": 22,
+      "High": 214,
+      "Medium": 78,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:word:2010, microsoft:word:2010:sp1, winrar, , "
+  },
+  "PSY409-002": {
+    "counts": {
+      "Critical": 93,
+      "High": 301,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "PSY408-03_2025-06-07_14-16-14": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "LAW217-002_2025-06-02_14-40-07": {
+    "counts": {
+      "Critical": 258,
+      "High": 597,
+      "Medium": 361,
+      "Low": 17
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2005, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "PSY424-001_2025-06-07_14-38-43": {
+    "counts": {
+      "Critical": 31,
+      "High": 221,
+      "Medium": 87,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "law122-000003": {
+    "counts": {
+      "Critical": 86,
+      "High": 283,
+      "Medium": 86,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:powerpoint:2013, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "LAW118-001_2025-06-07_11-35-41": {
+    "counts": {
+      "Critical": 14,
+      "High": 205,
+      "Medium": 56,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:3d_builder",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:3d_builder, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW216-001_2025-06-02_13-40-00": {
+    "counts": {
+      "Critical": 12,
+      "High": 194,
+      "Medium": 55,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW106-001_2025-05-31_15-15-42": {
+    "counts": {
+      "Critical": 61,
+      "High": 100,
+      "Medium": 35,
+      "Low": 12
+    },
+    "cpe": [
+      "7-zip",
+      "foxit:reader",
+      "microsoft:webp_image",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, foxit:reader, microsoft:webp_image, , "
+  },
+  "PSY426-003_2025-06-07_15-39-17": {
+    "counts": {
+      "Critical": 47,
+      "High": 74,
+      "Medium": 55,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "inkscape:inkscape",
+      "microsoft:webp_image",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "videolan:vlc_media_player",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, inkscape:inkscape, microsoft:webp_image, mozilla:firefox, r:r_for_windows, videolan:vlc_media_player, , "
+  },
+  "LAW109-001_2025-05-31_16-26-56": {
+    "counts": {
+      "Critical": 18,
+      "High": 324,
+      "Medium": 123,
+      "Low": 15
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF306-001_2025-06-07_12-15-02": {
+    "counts": {
+      "Critical": 80,
+      "High": 284,
+      "Medium": 74,
+      "Low": 15
+    },
+    "cpe": [
+      "7-zip",
+      "foxit:reader",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2010",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, foxit:reader, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, windows_defender, microsoft:word:2010, winrar, , "
+  },
+  "LAW104-002_2025-05-31_15-51-24": {
+    "counts": {
+      "Critical": 14,
+      "High": 201,
+      "Medium": 56,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW111-001_2025-06-20_13-13-48": {
+    "counts": {
+      "Critical": 168,
+      "High": 82,
+      "Medium": 62,
+      "Low": 2
+    },
+    "cpe": [
+      "adobe:flash_player",
+      "adobe:flash_player:10",
+      "microsoft:webp_image",
+      "winrar",
+      "videolan:vlc_media_player",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: adobe:flash_player, adobe:flash_player:10, microsoft:webp_image, winrar, videolan:vlc_media_player, , "
+  },
+  "PSY419-0002_2025-06-07_15-12-17": {
+    "counts": {
+      "Critical": 13,
+      "High": 199,
+      "Medium": 55,
+      "Low": 5
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW110-001_2025-06-02_13-01-19": {
+    "counts": {
+      "Critical": 15,
+      "High": 209,
+      "Medium": 67,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW006-002_2025-06-14_11-54-26": {
+    "counts": {
+      "Critical": 96,
+      "High": 309,
+      "Medium": 105,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "LAW012-006_2025-06-14_10-58-13": {
+    "counts": {
+      "Critical": 64,
+      "High": 155,
+      "Medium": 69,
+      "Low": 13
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:word:2013, oracle:jre:1.8.0, , , "
+  },
+  "LAW120-013_2025-05-24_12-02-13": {
+    "counts": {
+      "Critical": 12,
+      "High": 199,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:3d_builder",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:3d_builder, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW104-001_2025-05-31_15-54-59": {
+    "counts": {
+      "Critical": 89,
+      "High": 305,
+      "Medium": 103,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, , "
+  },
+  "FSF-018-0423_2025-05-31_14-38-17": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF317-001_2025-06-07_13-16-48": {
+    "counts": {
+      "Critical": 258,
+      "High": 597,
+      "Medium": 361,
+      "Low": 17
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "PSY426-009_2025-06-07_15-31-09": {
+    "counts": {
+      "Critical": 43,
+      "High": 273,
+      "Medium": 128,
+      "Low": 10
+    },
+    "cpe": [
+      "7-zip",
+      "gimp",
+      "git",
+      "google:chrome",
+      "libreoffice",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_studio_code:system_installer",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "pypi:pip",
+      "r:r_for_windows",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, gimp, git, google:chrome, libreoffice, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_studio_code:system_installer, microsoft:webp_image, microsoft:word:2013, pypi:pip, r:r_for_windows, winrar, , "
+  },
+  "LAW124-001_2025-06-07_11-53-22": {
+    "counts": {
+      "Critical": 14,
+      "High": 200,
+      "Medium": 55,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW120-0014_2025-05-24_12-11-52": {
+    "counts": {
+      "Critical": 13,
+      "High": 199,
+      "Medium": 55,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY408-04_2025-06-07_14-12-02": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "FSF101-010-0423_2025-06-07_13-46-05": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF101-015-0423_2025-05-31_14-37-07": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY426-014_2025-06-07_15-47-44": {
+    "counts": {
+      "Critical": 10,
+      "High": 46,
+      "Medium": 39,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:webp_image",
+      "r:r_for_windows",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:webp_image, r:r_for_windows, winrar, , "
+  },
+  "PSY418-0001-092_2025-06-07_15-13-48": {
+    "counts": {
+      "Critical": 254,
+      "High": 415,
+      "Medium": 219,
+      "Low": 18
+    },
+    "cpe": [
+      "git",
+      "google:chrome",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, google:chrome, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , , "
+  },
+  "law122-000005": {
+    "counts": {
+      "Critical": 79,
+      "High": 268,
+      "Medium": 83,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:powerpoint:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "DESKTOP-2O1TSN9_2025-05-31_16-00-26": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY408-10_2025-06-07_14-10-48": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "law122-000015": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY418-002_2025-06-07_15-12-47": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY422-0001_2025-06-07_14-42-27": {
+    "counts": {
+      "Critical": 22,
+      "High": 227,
+      "Medium": 76,
+      "Low": 8
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "FSF310-0005_2025-06-07_13-14-17": {
+    "counts": {
+      "Critical": 72,
+      "High": 296,
+      "Medium": 231,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY426-013_2025-06-07_15-48-52": {
+    "counts": {
+      "Critical": 49,
+      "High": 281,
+      "Medium": 141,
+      "Low": 11
+    },
+    "cpe": [
+      "7-zip",
+      "gimp",
+      "git",
+      "libreoffice",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_studio_code:system_installer",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "pypi:pip",
+      "r:r_for_windows",
+      "winrar",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, gimp, git, libreoffice, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_studio_code:system_installer, microsoft:webp_image, microsoft:word:2013, pypi:pip, r:r_for_windows, winrar, , , "
+  },
+  "LAW004-009_2025-06-14_11-51-20": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 16
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "LAW110-002_2025-06-02_12-58-34": {
+    "counts": {
+      "Critical": 18,
+      "High": 218,
+      "Medium": 95,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:3d_builder",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "zoom:zoom:individual_users_install",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:3d_builder, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, zoom:zoom:individual_users_install, , "
+  },
+  "PSY023-004_2025-06-14_08-13-03": {
+    "counts": {
+      "Critical": 31,
+      "High": 222,
+      "Medium": 88,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "law120-009": {
+    "counts": {
+      "Critical": 18,
+      "High": 207,
+      "Medium": 68,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY416-001_2025-06-07_14-37-05": {
+    "counts": {
+      "Critical": 88,
+      "High": 297,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW004-010_2025-06-14_11-52-49": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "LAW208-001_2025-06-02_13-22-05": {
+    "counts": {
+      "Critical": 258,
+      "High": 601,
+      "Medium": 377,
+      "Low": 18
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "zoom:zoom:individual_users_install",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, zoom:zoom:individual_users_install, , "
+  },
+  "PSY426-002_2025-06-07_15-36-20": {
+    "counts": {
+      "Critical": 46,
+      "High": 74,
+      "Medium": 55,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "inkscape:inkscape",
+      "microsoft:webp_image",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "videolan:vlc_media_player",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, inkscape:inkscape, microsoft:webp_image, mozilla:firefox, r:r_for_windows, videolan:vlc_media_player, , "
+  },
+  "PSY422-002_2025-06-07_15-07-30": {
+    "counts": {
+      "Critical": 689,
+      "High": 880,
+      "Medium": 775,
+      "Low": 51
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:.net_framework:4.8",
+      "microsoft:3d_viewer",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:heif_image_extensions",
+      "microsoft:microsoft_photos",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:vp9_video_extensions",
+      "microsoft:web_media_video_extensions",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:.net_framework:4.8, microsoft:3d_viewer, microsoft:edge, microsoft:excel:2013, microsoft:heif_image_extensions, microsoft:microsoft_photos, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:vp9_video_extensions, microsoft:web_media_video_extensions, microsoft:webp_image, microsoft:word:2013, , , "
+  },
+  "law120-008": {
+    "counts": {
+      "Critical": 12,
+      "High": 199,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:3d_builder",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:3d_builder, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "law108-001": {
+    "counts": {
+      "Critical": 19,
+      "High": 210,
+      "Medium": 59,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, winrar, , "
+  },
+  "PSY408-07_2025-06-07_14-02-04": {
+    "counts": {
+      "Critical": 151,
+      "High": 342,
+      "Medium": 195,
+      "Low": 11
+    },
+    "cpe": [
+      "git",
+      "microsoft:.net_framework:4.8",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:.net_framework:4.8, microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , , "
+  },
+  "fsf101-008-0423": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF313-002_2025-06-07_12-45-22": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "FSF307-000005_2025-05-28_14-05-43": {
+    "counts": {
+      "Critical": 127,
+      "High": 352,
+      "Medium": 295,
+      "Low": 9
+    },
+    "cpe": [
+      "microsoft:.net_framework:4.8.1",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:heif_image_extensions",
+      "microsoft:microsoft_photos",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:.net_framework:4.8.1, microsoft:edge, microsoft:excel:2010, microsoft:heif_image_extensions, microsoft:microsoft_photos, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY426-015_2025-06-07_15-20-48": {
+    "counts": {
+      "Critical": 19,
+      "High": 44,
+      "Medium": 32,
+      "Low": 3
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:webp_image",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:webp_image, mozilla:firefox, r:r_for_windows, , , "
+  },
+  "LAW004-002_2025-06-14_12-04-03": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "LAW219-002_2025-06-02_14-06-15": {
+    "counts": {
+      "Critical": 8,
+      "High": 21,
+      "Medium": 17,
+      "Low": 1
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:webp_image",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:webp_image, , , "
+  },
+  "FSF101-004-0423_2025-06-07_13-44-46": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY426-010_2025-06-07_15-32-23": {
+    "counts": {
+      "Critical": 43,
+      "High": 269,
+      "Medium": 127,
+      "Low": 10
+    },
+    "cpe": [
+      "7-zip",
+      "gimp",
+      "git",
+      "libreoffice",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_studio_code:system_installer",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "pypi:pip",
+      "r:r_for_windows",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, gimp, git, libreoffice, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_studio_code:system_installer, microsoft:webp_image, microsoft:word:2013, pypi:pip, r:r_for_windows, winrar, , "
+  },
+  "LAW203-001_2025-06-02_12-43-14": {
+    "counts": {
+      "Critical": 257,
+      "High": 588,
+      "Medium": 350,
+      "Low": 17
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "FSF101-011-0423_2025-05-31_14-41-32": {
+    "counts": {
+      "Critical": 112,
+      "High": 323,
+      "Medium": 249,
+      "Low": 9
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:.net_framework:4.8.1",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:.net_framework:4.8.1, microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "FSF307-000002_2025-05-28_14-11-54": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 56,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY405-001-0323_2025-06-07_13-29-25": {
+    "counts": {
+      "Critical": 291,
+      "High": 503,
+      "Medium": 386,
+      "Low": 22
+    },
+    "cpe": [
+      "7-zip",
+      "git",
+      "google:chrome",
+      "microsoft:.net_framework:4.8.1",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, git, google:chrome, microsoft:.net_framework:4.8.1, microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , , "
+  },
+  "LAW122-000007_2025-05-24_13-05-27": {
+    "counts": {
+      "Critical": 79,
+      "High": 268,
+      "Medium": 83,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:powerpoint:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "FSF101-012-0423_2025-05-31_14-40-33": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "law122-000013": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY417-001-0523_2025-06-07_14-42-40": {
+    "counts": {
+      "Critical": 55,
+      "High": 265,
+      "Medium": 99,
+      "Low": 9
+    },
+    "cpe": [
+      "7-zip",
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "FSF311-001_2025-06-02_13-56-36": {
+    "counts": {
+      "Critical": 258,
+      "High": 598,
+      "Medium": 362,
+      "Low": 17
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "FSF101-013-0423_2025-05-31_14-40-07": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW122-000004_2025-05-24_13-13-44": {
+    "counts": {
+      "Critical": 93,
+      "High": 304,
+      "Medium": 132,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:edge, microsoft:excel:2013, microsoft:office:2013, microsoft:powerpoint:2013, microsoft:webp_image, microsoft:word:2013, , , "
+  },
+  "FSF101-009-0423_2025-05-31_14-33-46": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 5
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW004-012_2025-06-14_11-54-49": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "FSF303-003_2025-06-07_12-10-17": {
+    "counts": {
+      "Critical": 257,
+      "High": 600,
+      "Medium": 369,
+      "Low": 20
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "LAW219-003_2025-06-02_13-55-06": {
+    "counts": {
+      "Critical": 36,
+      "High": 225,
+      "Medium": 88,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "law122-000014": {
+    "counts": {
+      "Critical": 265,
+      "High": 654,
+      "Medium": 475,
+      "Low": 30
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "google:pepper_flash",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, google:pepper_flash, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , , "
+  },
+  "LAW004-007_2025-06-14_11-47-12": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "FSF310-0006_2025-06-07_08-48-48": {
+    "counts": {
+      "Critical": 12,
+      "High": 199,
+      "Medium": 55,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY408-11_2025-06-07_14-14-00": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "LAW004-004_2025-06-14_11-58-08": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "PSY411-006_2025-06-07_13-47-41": {
+    "counts": {
+      "Critical": 108,
+      "High": 339,
+      "Medium": 162,
+      "Low": 12
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "PSY403-002_2025-06-20_13-07-41": {
+    "counts": {
+      "Critical": 88,
+      "High": 295,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:word:2013, , "
+  },
+  "fsf101-001-0423": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "law120-015": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY408-01_2025-06-07_14-22-10": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "LAW117-001_2025-06-02_13-23-00": {
+    "counts": {
+      "Critical": 18,
+      "High": 219,
+      "Medium": 97,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "zoom:zoom:individual_users_install",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, zoom:zoom:individual_users_install, , "
+  },
+  "PSY426-006_2025-06-07_15-46-42": {
+    "counts": {
+      "Critical": 76,
+      "High": 109,
+      "Medium": 94,
+      "Low": 7
+    },
+    "cpe": [
+      "7-zip",
+      "inkscape:inkscape",
+      "microsoft:webp_image",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "winrar",
+      "videolan:vlc_media_player",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, inkscape:inkscape, microsoft:webp_image, mozilla:firefox, r:r_for_windows, winrar, videolan:vlc_media_player, , "
+  },
+  "fsf101-003-0423": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY426-017_2025-06-07_15-40-18": {
+    "counts": {
+      "Critical": 40,
+      "High": 70,
+      "Medium": 42,
+      "Low": 3
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:webp_image",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:webp_image, mozilla:firefox, r:r_for_windows, , "
+  },
+  "FSF101-020-0423_2025-05-31_14-42-18": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW120-005_2025-05-24_12-48-24": {
+    "counts": {
+      "Critical": 37,
+      "High": 232,
+      "Medium": 101,
+      "Low": 5
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , , "
+  },
+  "LAW214A-00001_2025-05-24_11-11-01": {
+    "counts": {
+      "Critical": 16,
+      "High": 196,
+      "Medium": 62,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, , "
+  },
+  "FSF310-0001_2025-06-07_12-47-03": {
+    "counts": {
+      "Critical": 12,
+      "High": 201,
+      "Medium": 59,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW122-000009": {
+    "counts": {
+      "Critical": 79,
+      "High": 268,
+      "Medium": 83,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:powerpoint:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY426-018_2025-06-07_15-40-57": {
+    "counts": {
+      "Critical": 43,
+      "High": 75,
+      "Medium": 49,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "inkscape:inkscape",
+      "microsoft:webp_image",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "winrar",
+      "videolan:vlc_media_player",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, inkscape:inkscape, microsoft:webp_image, mozilla:firefox, r:r_for_windows, winrar, videolan:vlc_media_player, , "
+  },
+  "LAW122-000011_2025-05-24_13-03-22": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY408-15_2025-06-07_14-09-50": {
+    "counts": {
+      "Critical": 45,
+      "High": 275,
+      "Medium": 184,
+      "Low": 8
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , , "
+  },
+  "PSY418-14_2025-06-07_14-09-00": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "FSF313-001_2025-06-07_12-34-22": {
+    "counts": {
+      "Critical": 15,
+      "High": 222,
+      "Medium": 78,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF311-0002_2025-06-02_13-58-57": {
+    "counts": {
+      "Critical": 14,
+      "High": 245,
+      "Medium": 76,
+      "Low": 7
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF303-004_2025-06-07_12-01-00": {
+    "counts": {
+      "Critical": 93,
+      "High": 302,
+      "Medium": 99,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "LAW210-005_2025-06-02_14-15-21": {
+    "counts": {
+      "Critical": 257,
+      "High": 594,
+      "Medium": 352,
+      "Low": 17
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "LAW004-006_2025-06-14_11-46-05": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "law122-000001": {
+    "counts": {
+      "Critical": 79,
+      "High": 268,
+      "Medium": 83,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:powerpoint:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW210-004_2025-06-02_14-12-13": {
+    "counts": {
+      "Critical": 88,
+      "High": 298,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "law120-014": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY410-001_2025-06-07_13-29-08": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 100,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW012-002_2025-06-14_10-44-03": {
+    "counts": {
+      "Critical": 112,
+      "High": 345,
+      "Medium": 162,
+      "Low": 17
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:edge, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , , "
+  },
+  "LAW012-004_2025-06-14_10-50-09": {
+    "counts": {
+      "Critical": 108,
+      "High": 348,
+      "Medium": 163,
+      "Low": 17
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, oracle:jre:1.8.0, , , "
+  },
+  "LAW114-001_2025-06-07_11-23-43": {
+    "counts": {
+      "Critical": 14,
+      "High": 201,
+      "Medium": 56,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF314-001_2025-06-14_12-33-33": {
+    "counts": {
+      "Critical": 88,
+      "High": 298,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW008-001_2025-06-14_12-08-40": {
+    "counts": {
+      "Critical": 95,
+      "High": 315,
+      "Medium": 116,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, , , "
+  },
+  "LAW107-002_2025-05-31_16-21-27": {
+    "counts": {
+      "Critical": 100,
+      "High": 324,
+      "Medium": 117,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:edge, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, winrar, , , "
+  },
+  "fsf101-006-0423": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW214A-00002_2025-06-02_12-21-09": {
+    "counts": {
+      "Critical": 16,
+      "High": 200,
+      "Medium": 63,
+      "Low": 3
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, , "
+  },
+  "LAW121-001_2025-06-07_11-57-40": {
+    "counts": {
+      "Critical": 93,
+      "High": 300,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "PSY403-001_2025-06-20_13-10-36": {
+    "counts": {
+      "Critical": 167,
+      "High": 75,
+      "Medium": 54,
+      "Low": 1
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "adobe:flash_player:10",
+      "winrar",
+      "videolan:vlc_media_player",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, adobe:flash_player:10, winrar, videolan:vlc_media_player, , "
+  },
+  "PSY535-001_2025-06-14_11-35-17": {
+    "counts": {
+      "Critical": 31,
+      "High": 220,
+      "Medium": 87,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "law122-00012": {
+    "counts": {
+      "Critical": 94,
+      "High": 308,
+      "Medium": 111,
+      "Low": 16
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , , "
+  },
+  "PSY426-005_2025-06-07_15-52-41": {
+    "counts": {
+      "Critical": 21,
+      "High": 91,
+      "Medium": 140,
+      "Low": 53
+    },
+    "cpe": [
+      "microsoft:webp_image",
+      "nvidia:geforce_experience",
+      "r:r_for_windows",
+      "simon_tatham:putty",
+      "videolan:vlc_media_player",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:webp_image, nvidia:geforce_experience, r:r_for_windows, simon_tatham:putty, videolan:vlc_media_player, , , "
+  },
+  "law122-000006": {
+    "counts": {
+      "Critical": 62,
+      "High": 83,
+      "Medium": 12,
+      "Low": 10
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:webp_image",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:webp_image, winrar, , "
+  },
+  "PSY411-004_2025-06-07_13-50-39": {
+    "counts": {
+      "Critical": 108,
+      "High": 344,
+      "Medium": 169,
+      "Low": 12
+    },
+    "cpe": [
+      "adobe:acrobat_dc:::continuous",
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: adobe:acrobat_dc:::continuous, git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "fsf101-007-0423": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY401-001-1024_2025-06-07_14-44-59": {
+    "counts": {
+      "Critical": 6,
+      "High": 28,
+      "Medium": 21,
+      "Low": 1
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "google:pepper_flash",
+      "microsoft:webp_image",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, google:pepper_flash, microsoft:webp_image, , "
+  },
+  "LAW214-010_2025-06-02_14-06-50": {
+    "counts": {
+      "Critical": 257,
+      "High": 589,
+      "Medium": 350,
+      "Low": 17
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "PSY420-002_2025-06-07_15-13-14": {
+    "counts": {
+      "Critical": 108,
+      "High": 343,
+      "Medium": 171,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:edge, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , , "
+  },
+  "FSF310-0007_2025-06-07_12-49-24": {
+    "counts": {
+      "Critical": 73,
+      "High": 296,
+      "Medium": 230,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:.net_framework:4.8.1",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:.net_framework:4.8.1, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY022-001_2025-06-14_12-06-19": {
+    "counts": {
+      "Critical": 93,
+      "High": 300,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "LAW014-001_2025-06-14_12-19-55": {
+    "counts": {
+      "Critical": 91,
+      "High": 308,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY411-005_2025-06-07_13-46-44": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY023-002_2025-06-14_12-11-31": {
+    "counts": {
+      "Critical": 31,
+      "High": 222,
+      "Medium": 88,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "psy408-05": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "FSF101-016-0423_2025-05-31_14-35-22": {
+    "counts": {
+      "Critical": 19,
+      "High": 213,
+      "Medium": 70,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "LAW120-011_2025-05-24_11-56-17": {
+    "counts": {
+      "Critical": 18,
+      "High": 207,
+      "Medium": 68,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "law122-000002": {
+    "counts": {
+      "Critical": 62,
+      "High": 83,
+      "Medium": 12,
+      "Low": 11
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:webp_image",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:webp_image, winrar, , "
+  },
+  "PSY412-002-1124_2025-06-07_14-26-37": {
+    "counts": {
+      "Critical": 191,
+      "High": 472,
+      "Medium": 266,
+      "Low": 26
+    },
+    "cpe": [
+      "foxit:reader",
+      "git",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, git, microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , , "
+  },
+  "LAW122-000010_2025-05-24_13-00-14": {
+    "counts": {
+      "Critical": 79,
+      "High": 268,
+      "Medium": 83,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:powerpoint:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "PSY426-007_2025-06-07_15-56-02": {
+    "counts": {
+      "Critical": 6,
+      "High": 16,
+      "Medium": 15,
+      "Low": 1
+    },
+    "cpe": [
+      "microsoft:malicious_software_removal_tool",
+      "microsoft:webp_image",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:malicious_software_removal_tool, microsoft:webp_image, , , "
+  },
+  "FSF101-021-0423_2025-05-31_14-47-04": {
+    "counts": {
+      "Critical": 19,
+      "High": 213,
+      "Medium": 70,
+      "Low": 5
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "LAW004-003_2025-06-14_11-36-04": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "LAW004-008_2025-06-14_11-47-58": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "PSY408-12_2025-06-07_14-20-56": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "FSF310-0002_2025-06-07_13-00-55": {
+    "counts": {
+      "Critical": 18,
+      "High": 216,
+      "Medium": 70,
+      "Low": 3
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "LAW210-002_2025-06-02_14-35-11": {
+    "counts": {
+      "Critical": 21,
+      "High": 222,
+      "Medium": 89,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "FSF302-003_2025-06-07_13-00-25": {
+    "counts": {
+      "Critical": 89,
+      "High": 303,
+      "Medium": 102,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, , "
+  },
+  "LAW-000016_2025-05-24_13-16-16": {
+    "counts": {
+      "Critical": 88,
+      "High": 296,
+      "Medium": 97,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "FSF307-001_2025-05-28_14-28-40": {
+    "counts": {
+      "Critical": 263,
+      "High": 600,
+      "Medium": 365,
+      "Low": 18
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , , "
+  },
+  "LAW012-003_2025-06-14_10-46-58": {
+    "counts": {
+      "Critical": 112,
+      "High": 347,
+      "Medium": 163,
+      "Low": 17
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:edge, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , , "
+  },
+  "PSY408-13_2025-06-07_14-15-00": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "FSF300-003_2025-06-07_11-59-08": {
+    "counts": {
+      "Critical": 89,
+      "High": 303,
+      "Medium": 102,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, , "
+  },
+  "FSF300-002_2025-06-07_12-07-46": {
+    "counts": {
+      "Critical": 13,
+      "High": 208,
+      "Medium": 74,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF101-014-0423_2025-05-31_14-39-33": {
+    "counts": {
+      "Critical": 258,
+      "High": 498,
+      "Medium": 520,
+      "Low": 19
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:.net_framework:4.8.1",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:.net_framework:4.8.1, microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "FSF302-001_2025-06-07_12-31-26": {
+    "counts": {
+      "Critical": 94,
+      "High": 309,
+      "Medium": 105,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, winrar, , "
+  },
+  "PSY424-002_2025-06-07_15-04-33": {
+    "counts": {
+      "Critical": 218,
+      "High": 546,
+      "Medium": 545,
+      "Low": 23
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:.net_framework:4.8.1",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:.net_framework:4.8.1, microsoft:edge, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:word:2013, , , "
+  },
+  "LAW010-001_2025-06-14_12-07-34": {
+    "counts": {
+      "Critical": 100,
+      "High": 312,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, winrar, , "
+  },
+  "LAW012-008_2025-06-14_11-06-32": {
+    "counts": {
+      "Critical": 107,
+      "High": 341,
+      "Medium": 158,
+      "Low": 18
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , , "
+  },
+  "LAW117-002_2025-06-02_14-33-33": {
+    "counts": {
+      "Critical": 14,
+      "High": 201,
+      "Medium": 56,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW120-007_2025-05-24_12-09-44": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW211-001_2025-06-07_12-10-32": {
+    "counts": {
+      "Critical": 37,
+      "High": 232,
+      "Medium": 101,
+      "Low": 5
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , , "
+  },
+  "UI205-003_2025-06-02_13-13-06": {
+    "counts": {
+      "Critical": 43,
+      "High": 274,
+      "Medium": 136,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:3d_builder",
+      "microsoft:edge",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:3d_builder, microsoft:edge, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY414-001-0523_2025-06-07_14-29-28": {
+    "counts": {
+      "Critical": 116,
+      "High": 341,
+      "Medium": 171,
+      "Low": 14
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , , "
+  },
+  "PSY408-019_2025-06-07_14-05-29": {
+    "counts": {
+      "Critical": 88,
+      "High": 298,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW207-001_2025-06-02_13-37-50": {
+    "counts": {
+      "Critical": 257,
+      "High": 591,
+      "Medium": 372,
+      "Low": 18
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "zoom:zoom:individual_users_install",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, zoom:zoom:individual_users_install, , "
+  },
+  "FSF101-017-0423_2025-05-31_14-35-57": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF307-000003_2025-05-28_14-04-01": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW120-006_2025-05-24_12-01-05": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "law120-016": {
+    "counts": {
+      "Critical": 6,
+      "High": 15,
+      "Medium": 15,
+      "Low": 1
+    },
+    "cpe": [
+      "microsoft:webp_image",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:webp_image, , , "
+  },
+  "PSY408-17_2025-06-07_14-07-19": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "LAW203-0002_2025-06-02_12-40-34": {
+    "counts": {
+      "Critical": 13,
+      "High": 198,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF303-001_2025-06-07_12-13-00": {
+    "counts": {
+      "Critical": 16,
+      "High": 218,
+      "Medium": 74,
+      "Low": 3
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW112-001_2025-06-02_12-58-55": {
+    "counts": {
+      "Critical": 257,
+      "High": 592,
+      "Medium": 351,
+      "Low": 17
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:acrobat_dc:::continuous",
+      "adobe:flash_player",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:acrobat_dc:::continuous, adobe:flash_player, microsoft:excel:2010, microsoft:office:2010, microsoft:powerpoint:2010, microsoft:visual_c++:2010, microsoft:webp_image, microsoft:word:2010, mozilla:firefox, , "
+  },
+  "fsf101-002-0423": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 5
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "LAW208-002_2025-06-02_13-26-31": {
+    "counts": {
+      "Critical": 95,
+      "High": 315,
+      "Medium": 116,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, windows_defender, microsoft:word:2013, , , "
+  },
+  "Law103-001": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF310-0003_2025-06-07_12-59-10": {
+    "counts": {
+      "Critical": 73,
+      "High": 296,
+      "Medium": 230,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:.net_framework:4.8.1",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:.net_framework:4.8.1, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY419-003-0423_2025-06-07_15-09-01": {
+    "counts": {
+      "Critical": 16,
+      "High": 208,
+      "Medium": 87,
+      "Low": 6
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "zoom:zoom:individual_users_install",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, zoom:zoom:individual_users_install, , "
+  },
+  "PSY422-004_2025-06-07_14-40-33": {
+    "counts": {
+      "Critical": 88,
+      "High": 298,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW212-NEW3-001_2025-06-07_11-54-12": {
+    "counts": {
+      "Critical": 13,
+      "High": 200,
+      "Medium": 56,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF302-002_2025-06-07_12-34-43": {
+    "counts": {
+      "Critical": 93,
+      "High": 302,
+      "Medium": 99,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, winrar, , "
+  },
+  "PSY408-08_2025-06-07_14-06-49": {
+    "counts": {
+      "Critical": 24,
+      "High": 230,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "PSY420-0001-102_2025-06-07_14-34-45": {
+    "counts": {
+      "Critical": 112,
+      "High": 346,
+      "Medium": 168,
+      "Low": 13
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "PSY413-003-0423_2025-06-07_15-11-32": {
+    "counts": {
+      "Critical": 112,
+      "High": 345,
+      "Medium": 168,
+      "Low": 14
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "PSY015-002_2025-06-14_12-42-30": {
+    "counts": {
+      "Critical": 88,
+      "High": 298,
+      "Medium": 98,
+      "Low": 14
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "fsf101-005-0423": {
+    "counts": {
+      "Critical": 13,
+      "High": 201,
+      "Medium": 56,
+      "Low": 5
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY408-18_2025-06-07_14-05-37": {
+    "counts": {
+      "Critical": 64,
+      "High": 548,
+      "Medium": 523,
+      "Low": 21
+    },
+    "cpe": [
+      "adobe:shockwave_flash_activex",
+      "git",
+      "microsoft:.net_framework:4.8",
+      "microsoft:excel:2010",
+      "microsoft:ie:11",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      "_10:2004::x64",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: adobe:shockwave_flash_activex, git, microsoft:.net_framework:4.8, microsoft:excel:2010, microsoft:ie:11, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, r:r_for_windows, tortoisegit:tortoisegit, , _10:2004::x64, "
+  },
+  "LAW004-001_2025-06-14_12-05-37": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "LAW122-000008_2025-05-24_13-30-53": {
+    "counts": {
+      "Critical": 258,
+      "High": 615,
+      "Medium": 371,
+      "Low": 18
+    },
+    "cpe": [
+      "7-zip",
+      "adobe:flash_player",
+      "microsoft:3d_builder",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "mozilla:firefox",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, adobe:flash_player, microsoft:3d_builder, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, mozilla:firefox, , "
+  },
+  "LAW616-002_2025-06-07_11-40-44": {
+    "counts": {
+      "Critical": 24,
+      "High": 226,
+      "Medium": 105,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY405-002": {
+    "counts": {
+      "Critical": 0,
+      "High": 5,
+      "Medium": 2,
+      "Low": 0
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:webp_image",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:webp_image, , "
+  },
+  "PSY410-003_2025-06-07_13-52-59": {
+    "counts": {
+      "Critical": 103,
+      "High": 338,
+      "Medium": 166,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:visual_c++:2005",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:visual_c++:2005, microsoft:webp_image, microsoft:word:2013, , , "
+  },
+  "PSY408-16_2025-06-07_14-07-43": {
+    "counts": {
+      "Critical": 24,
+      "High": 229,
+      "Medium": 99,
+      "Low": 6
+    },
+    "cpe": [
+      "git",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "r:r_for_windows",
+      "tortoisegit:tortoisegit",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: git, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, microsoft:word:2010, r:r_for_windows, tortoisegit:tortoisegit, , "
+  },
+  "LAW122-0006_2025-05-28_12-51-32": {
+    "counts": {
+      "Critical": 18,
+      "High": 207,
+      "Medium": 68,
+      "Low": 3
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "PSY023-006_2025-06-14_12-14-52": {
+    "counts": {
+      "Critical": 31,
+      "High": 222,
+      "Medium": 91,
+      "Low": 5
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW004-013_2025-06-14_11-50-26": {
+    "counts": {
+      "Critical": 95,
+      "High": 310,
+      "Medium": 106,
+      "Low": 15
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "oracle:jre:1.8.0",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, oracle:jre:1.8.0, , "
+  },
+  "LAW104-003_2025-05-31_15-49-17": {
+    "counts": {
+      "Critical": 14,
+      "High": 200,
+      "Medium": 55,
+      "Low": 2
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "FSF315-001_2025-06-07_09-12-44": {
+    "counts": {
+      "Critical": 690,
+      "High": 887,
+      "Medium": 780,
+      "Low": 51
+    },
+    "cpe": [
+      "foxit:reader",
+      "microsoft:.net_framework:4.8",
+      "microsoft:3d_viewer",
+      "microsoft:edge",
+      "microsoft:excel:2013",
+      "microsoft:heif_image_extensions",
+      "microsoft:microsoft_photos",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:vp9_video_extensions",
+      "microsoft:web_media_video_extensions",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2013",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: foxit:reader, microsoft:.net_framework:4.8, microsoft:3d_viewer, microsoft:edge, microsoft:excel:2013, microsoft:heif_image_extensions, microsoft:microsoft_photos, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:vp9_video_extensions, microsoft:web_media_video_extensions, microsoft:webp_image, windows_defender, microsoft:word:2013, , , "
+  },
+  "PSY023-001_2025-06-14_08-10-13": {
+    "counts": {
+      "Critical": 31,
+      "High": 222,
+      "Medium": 88,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:paint_3d",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:paint_3d, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "LAW-12-014-01_2025-06-20_12-14-45": {
+    "counts": {
+      "Critical": 18,
+      "High": 212,
+      "Medium": 78,
+      "Low": 4
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:word:2010, microsoft:word:2010:sp1, winrar, , "
+  },
+  "FSF101-019-0423_2025-05-31_14-38-56": {
+    "counts": {
+      "Critical": 19,
+      "High": 213,
+      "Medium": 70,
+      "Low": 5
+    },
+    "cpe": [
+      "7-zip",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:visual_c++:2008",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:visual_c++:2008, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , , "
+  },
+  "LAW120-012_2025-05-24_11-52-21": {
+    "counts": {
+      "Critical": 12,
+      "High": 195,
+      "Medium": 54,
+      "Low": 2
+    },
+    "cpe": [
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:office:2010:sp1",
+      "microsoft:powerpoint:2010",
+      "microsoft:webp_image",
+      "microsoft:word:2010",
+      "microsoft:word:2010:sp1",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2010, microsoft:office:2010, microsoft:office:2010:sp1, microsoft:powerpoint:2010, microsoft:webp_image, microsoft:word:2010, microsoft:word:2010:sp1, , "
+  },
+  "PSY426-004_2025-06-07_15-45-25": {
+    "counts": {
+      "Critical": 31,
+      "High": 218,
+      "Medium": 89,
+      "Low": 4
+    },
+    "cpe": [
+      "microsoft:excel:2013",
+      "microsoft:office:2013",
+      "microsoft:onenote:2013",
+      "microsoft:outlook:2013",
+      "microsoft:powerpoint:2013",
+      "microsoft:publisher:2013",
+      "microsoft:webp_image",
+      "microsoft:word:2013",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: microsoft:excel:2013, microsoft:office:2013, microsoft:onenote:2013, microsoft:outlook:2013, microsoft:powerpoint:2013, microsoft:publisher:2013, microsoft:webp_image, microsoft:word:2013, , "
+  },
+  "FSF306-001_2025-05-28_13-17-58": {
+    "counts": {
+      "Critical": 80,
+      "High": 284,
+      "Medium": 74,
+      "Low": 15
+    },
+    "cpe": [
+      "7-zip",
+      "foxit:reader",
+      "microsoft:excel:2010",
+      "microsoft:office:2010",
+      "microsoft:onenote:2010",
+      "microsoft:outlook:2010",
+      "microsoft:powerpoint:2010",
+      "microsoft:publisher:2010",
+      "microsoft:webp_image",
+      "windows_defender",
+      "microsoft:word:2010",
+      "winrar",
+      "",
+      ""
+    ],
+    "test": "Необходимо обновить следующее ПО: 7-zip, foxit:reader, microsoft:excel:2010, microsoft:office:2010, microsoft:onenote:2010, microsoft:outlook:2010, microsoft:powerpoint:2010, microsoft:publisher:2010, microsoft:webp_image, windows_defender, microsoft:word:2010, winrar, , "
+  }
+}
